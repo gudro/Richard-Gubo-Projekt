@@ -1,3 +1,0 @@
-Projekt na DBS - 2015/2016
---------------------------
-Program predpokladá vytvorenú databázu Navy v postgres, nepodarilo sa mi vytvori databázu pomocou javy a "dumpnú" .sql súbory.
